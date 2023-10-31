@@ -1,0 +1,10 @@
+# IDE / Jupyter
+.vscode
+.idea
+.ipynb_checkpoints
+
+# Virtual Environments
+.venv
+
+# Build / Cache
+__pycache__
